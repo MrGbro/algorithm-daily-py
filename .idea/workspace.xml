@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/april/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/april/chart0404.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chart0315/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chart0315/leetcode3110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chart0315/leetcode394.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammer/calculate_symbol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammer/function_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammer/list_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammer/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april/chart0405.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april/chart0406.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ListExercise.executor": "Run",
-    "Python.calculate_symbol.executor": "Run",
-    "Python.function_exercise.executor": "Run",
-    "Python.list_exercise.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/CodeSpace/OpenSource/Java",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ListExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculate_symbol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/CodeSpace/OpenSource/Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\Python\daily-algo-python\grammer" />
