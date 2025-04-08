@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/daily-algo-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/daily-algo-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april/chart0408.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/april/chart0407.py" beforeDir="false" afterPath="$PROJECT_DIR$/april/chart0407.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,8 @@
   "keyToString": {
     "Python.ListExercise.executor": "Run",
     "Python.calculate_symbol.executor": "Run",
+    "Python.chart0407.executor": "Run",
+    "Python.chart0408.executor": "Run",
     "Python.function_exercise.executor": "Run",
     "Python.list_exercise.executor": "Run",
     "Python.main.executor": "Run",
