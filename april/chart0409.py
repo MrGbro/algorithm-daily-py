@@ -82,19 +82,21 @@ class Solution450:
 
 
 # 96
-class Solution:
+class Solution96:
     def numTrees(self, n: int) -> int:
         @cache
-        def get_num(l:int,r :int) -> int:
+        def get_num(l: int, r: int) -> int:
             if l > r:
                 return 1
             ans = 0
-            for i in range(l,r+1):
-                left = get_num(l,i-1)
-                right = get_num(i+1,r)
+            for i in range(l, r + 1):
+                left = get_num(l, i - 1)
+                right = get_num(i + 1, r)
                 ans += left * right
             return ans
-        return get_num(1,n)
+
+        return get_num(1, n)
+
 
 # 95 二叉搜索树
 class Solution95:
@@ -113,4 +115,5 @@ class Solution95:
                         root.right = right
                         ans.append(root)
             return ans
+
         return generate_trees(1, n)
