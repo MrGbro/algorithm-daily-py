@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grammer/object_oriented.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/april/chart0410.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/april/chart0409.py" beforeDir="false" afterPath="$PROJECT_DIR$/april/chart0409.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +32,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_chart0409.TestSolution3375.executor": "Run",
-    "Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor": "Run",
-    "Python.ListExercise.executor": "Run",
-    "Python.calculate_symbol.executor": "Run",
-    "Python.chart0407.executor": "Run",
-    "Python.chart0408.executor": "Run",
-    "Python.function_exercise.executor": "Run",
-    "Python.list_exercise.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.object_oriented.executor": "Run",
-    "Python.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/homeey/Documents/Python/algorithm-daily-py",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculate_symbol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chart0407.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chart0408.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.object_oriented.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/homeey/Documents/Python/algorithm-daily-py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
