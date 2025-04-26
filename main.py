@@ -84,3 +84,31 @@ x: list[int] = sorted(seq)
 print(x)
 queue: deque[int] = deque()
 queue.appendleft(1)
+
+import os
+import multiprocessing
+
+
+# 子进程要执行的代码
+def run_proc(name):
+    print('Run child process %s (%s)...' % (name, os.getpid()))
+
+
+def pool_task():
+    p = multiprocessing.Pool(4)
+    for i in range(5):
+        p.apply_async(run_proc, args=(i,))
+    print("waiting for all subprocesses done")
+    p.close()
+    p.join()
+    print("all end")
+
+
+if __name__ == '__main__':
+    print('Parent process %s.' % os.getpid())
+    p = multiprocessing.Process(target=run_proc, args=('test',))
+    print('Child process will start.')
+    p.start()
+    p.join()
+    print('Child process end.')
+    pool_task()
