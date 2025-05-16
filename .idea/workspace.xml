@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/may/chart0507.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may/chart0508.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may/chart0509.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/daily-algo-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/daily-algo-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/may/chart0516.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0513.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0513.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0514.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0514.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0515.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0515.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,10 @@
     "Python.chart0413.executor": "Run",
     "Python.chart0424.executor": "Run",
     "Python.chart0426.executor": "Run",
+    "Python.chart0512.executor": "Run",
+    "Python.chart0514.executor": "Run",
+    "Python.chart0515.executor": "Run",
+    "Python.chart0516.executor": "Run",
     "Python.function_exercise.executor": "Run",
     "Python.list_exercise.executor": "Run",
     "Python.main.executor": "Run",
@@ -76,7 +80,7 @@
       <recent name="E:\Code\Python\daily-algo-python\grammer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for chart0509.Test653.test_case">
+  <component name="RunManager">
     <configuration name="chart0411" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="daily-algo-python" />
       <option name="ENV_FILES" value="" />
@@ -190,7 +194,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
@@ -242,6 +246,11 @@
           <url>file://$PROJECT_DIR$/may/chart0509.py</url>
           <line>90</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/may/chart0516.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
