@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/may/chart0516.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0513.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0513.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0514.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0514.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/may/chart0515.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0515.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,45 +37,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for chart0426.TestDict.test_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ListExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculate_symbol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0407.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0408.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0411.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0413.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0424.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0426.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.object_oriented.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Code/Python/daily-algo-python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for chart0426.TestDict.test_init.executor": "Run",
+    "Python tests.Python tests for chart0509.Test653.test_case.executor": "Debug",
+    "Python tests.Python tests for test_chart0409.TestSolution3375.executor": "Run",
+    "Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor": "Run",
+    "Python.ListExercise.executor": "Run",
+    "Python.calculate_symbol.executor": "Run",
+    "Python.chart0407.executor": "Run",
+    "Python.chart0408.executor": "Run",
+    "Python.chart0411.executor": "Run",
+    "Python.chart0413.executor": "Run",
+    "Python.chart0424.executor": "Run",
+    "Python.chart0426.executor": "Run",
+    "Python.chart0512.executor": "Run",
+    "Python.chart0514.executor": "Run",
+    "Python.chart0515.executor": "Run",
+    "Python.chart0516.executor": "Run",
+    "Python.function_exercise.executor": "Run",
+    "Python.list_exercise.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.object_oriented.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Code/Python/daily-algo-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
       <recent name="E:\Code\Python\daily-algo-python\grammer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="chart0411" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="daily-algo-python" />
       <option name="ENV_FILES" value="" />
@@ -157,37 +166,35 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_chart0409.TestSolution3375" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for chart0509.Test653.test_case" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="daily-algo-python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/may" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_chart0409.TestSolution3375&quot;" />
+      <option name="_new_target" value="&quot;chart0509.Test653.test_case&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for chart0509.Test653.test_case" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python tests.Python tests for chart0426.TestDict.test_init" />
         <item itemvalue="Python.chart0411" />
         <item itemvalue="Python.object_oriented" />
-        <item itemvalue="Python tests.Python tests for test_chart0409.TestSolution3375" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
-        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
@@ -200,7 +207,6 @@
       <option name="presentableId" value="Default" />
       <updated>1736688207103</updated>
       <workItem from="1745646719133" duration="14415000" />
-      <workItem from="1746075885088" duration="340000" />
     </task>
     <servers />
   </component>
@@ -223,13 +229,28 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/april/chart0424.py</url>
-          <line>30</line>
+          <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/april/chart0424.py</url>
-          <line>19</line>
+          <line>4</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/may/chart0509.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/may/chart0509.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/may/chart0516.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
