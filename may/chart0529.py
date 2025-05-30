@@ -39,7 +39,7 @@ class Solution15:
             return res
 
         nums.sort()
-        nsum(nums, 0, 3, 0)
+        return nsum(nums, 0, 3, 0)
 
 
 class Solution611:
@@ -84,5 +84,45 @@ class Solution16:
 
 class Solution18:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        pass
+        def nsun(arr: List[int], start: int, n: int, t: int) -> List[List[int]]:
+            res = []
+            if n < 2 or len(arr) - start < n:
+                return res
+            if n == 2:
+                l, r = start, len(arr) - 1
+                while l < r:
+                    lv, rv = arr[l], arr[r]
+                    s = lv + rv
+                    if s> t:
+                        while l < r and arr[r] == rv:
+                            r -= 1
+                    elif s < t:
+                        while l < r and arr[l] == lv:
+                            l += 1
+                    else:
+                        tmp = [lv, rv]
+                        res.append(tmp)
+                        while l < r and arr[r] == rv:
+                            r -= 1
+                        while l < r and arr[l] == lv:
+                            l += 1
+            else:
+                i = start
+                while i < len(arr):
+                    ns = nsun(arr,i+1,n-1,t-arr[i])
+                    for it in ns:
+                        it.append(arr[i])
+                        res.append(it)
+                    while i < len(arr)-1 and arr[i] == arr[i+1]:
+                        i += 1
+                    i += 1
+            return res
+        nums.sort()
+        return nsun(nums, 0, 4, target)
 
+
+class Solution1577:
+    def numTriplets(self, nums1: List[int], nums2: List[int]) -> int:
+        cnt:int = 0
+        
+        return cnt
