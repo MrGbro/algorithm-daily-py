@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/may/chart0530.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/may/test_chart0530.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0603.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0604.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/test_chart0604.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/may/chart0529.py" beforeDir="false" afterPath="$PROJECT_DIR$/may/chart0529.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     "Python tests.Python tests for test_chart0528.TestSolution658.test_find_closest_elements.executor": "Debug",
     "Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome.executor": "Run",
     "Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away.executor": "Debug",
+    "Python tests.Python tests for test_chart0604.TestSolution.test_reverse_bits.executor": "Debug",
     "Python.ListExercise.executor": "Run",
     "Python.calculate_symbol.executor": "Run",
     "Python.chart0407.executor": "Run",
@@ -62,6 +65,7 @@
     "Python.chart0515.executor": "Run",
     "Python.chart0516.executor": "Run",
     "Python.chart0526.executor": "Debug",
+    "Python.chart0606.executor": "Debug",
     "Python.function_exercise.executor": "Run",
     "Python.list_exercise.executor": "Run",
     "Python.main.executor": "Run",
@@ -87,22 +91,7 @@
       <recent name="E:\Code\Python\daily-algo-python\grammer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away">
-    <configuration name="Python tests for test_chart0522.TestSolution632.test_smallest_range" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="daily-algo-python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/may" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_chart0522.TestSolution632.test_smallest_range&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Python tests for test_chart0527.TestSolution125.test_is_palindrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="daily-algo-python" />
       <option name="ENV_FILES" value="" />
@@ -163,13 +152,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_chart0604.TestSolution.test_reverse_bits" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="daily-algo-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/june" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chart0604.TestSolution.test_reverse_bits&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_chart0604.TestSolution.test_reverse_bits" />
         <item itemvalue="Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away" />
         <item itemvalue="Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome" />
         <item itemvalue="Python tests.Python tests for test_chart0528.TestSolution658.test_find_closest_elements" />
         <item itemvalue="Python tests.Python tests for test_chart0527.TestSolution125.test_is_palindrome" />
-        <item itemvalue="Python tests.Python tests for test_chart0522.TestSolution632.test_smallest_range" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +282,21 @@
           <url>file://$PROJECT_DIR$/may/chart0530.py</url>
           <line>64</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0604.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0606.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0606.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
