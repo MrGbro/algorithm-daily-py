@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/june/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/chart0603.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/chart0604.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/chart0606.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/test_chart0604.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0605.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0609.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0610.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +64,7 @@
     "Python.chart0516.executor": "Run",
     "Python.chart0526.executor": "Debug",
     "Python.chart0606.executor": "Debug",
+    "Python.chart0610.executor": "Debug",
     "Python.function_exercise.executor": "Run",
     "Python.list_exercise.executor": "Run",
     "Python.main.executor": "Run",
@@ -297,6 +296,11 @@
           <url>file://$PROJECT_DIR$/june/chart0606.py</url>
           <line>48</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0610.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
