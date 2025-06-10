@@ -3,3 +3,5 @@
 .vscode
 .fleet
 .venv
+*.xml
+.idea/*.xml
