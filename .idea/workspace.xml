@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/june/chart0605.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/chart0609.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june/chart0610.py" afterDir="false" />
+    <list default="true" id="c8a16bfb-b18c-4c44-997d-9ccc815d748f" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/july/chart0701.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0611.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0612.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0613.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0617.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0618.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0619.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0625.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0626.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0627.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/chart0630.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/june/test_chart0611.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/daily-algo-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/daily-algo-python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,91 +48,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for chart0426.TestDict.test_init.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for chart0509.Test653.test_case.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_chart0519.TestSolution1423.test_max_score.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0522.TestSolution1234.test_balanced_string.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0522.TestSolution632.test_smallest_range.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0527.TestSolution125.test_is_palindrome.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0528.TestSolution658.test_find_closest_elements.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_chart0604.TestSolution.test_reverse_bits.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ListExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculate_symbol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0407.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0408.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0411.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0413.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0424.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0426.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0512.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0514.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0515.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0516.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chart0526.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.chart0606.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.chart0610.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.function_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.object_oriented.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Code/Python/daily-algo-python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for chart0426.TestDict.test_init.executor": "Run",
+    "Python tests.Python tests for chart0509.Test653.test_case.executor": "Debug",
+    "Python tests.Python tests for test_chart0409.TestSolution3375.executor": "Run",
+    "Python tests.Python tests for test_chart0409.TestSolution3375.test_minOperations_MixedElements_ReturnsCorrectValue.executor": "Run",
+    "Python tests.Python tests for test_chart0519.TestSolution1423.test_max_score.executor": "Debug",
+    "Python tests.Python tests for test_chart0522.TestSolution1234.test_balanced_string.executor": "Debug",
+    "Python tests.Python tests for test_chart0522.TestSolution632.test_smallest_range.executor": "Debug",
+    "Python tests.Python tests for test_chart0527.TestSolution125.test_is_palindrome.executor": "Debug",
+    "Python tests.Python tests for test_chart0528.TestSolution658.test_find_closest_elements.executor": "Debug",
+    "Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome.executor": "Debug",
+    "Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away.executor": "Debug",
+    "Python tests.Python tests for test_chart0604.TestSolution.test_reverse_bits.executor": "Debug",
+    "Python tests.Python tests for test_chart0611.TestSolution1621.test_find_swap_values.executor": "Debug",
+    "Python tests.Python tests for test_chart0611.TestSolution1626.test_calculate.executor": "Debug",
+    "Python.ListExercise.executor": "Run",
+    "Python.calculate_symbol.executor": "Run",
+    "Python.chart0407.executor": "Run",
+    "Python.chart0408.executor": "Run",
+    "Python.chart0411.executor": "Run",
+    "Python.chart0413.executor": "Run",
+    "Python.chart0424.executor": "Run",
+    "Python.chart0426.executor": "Run",
+    "Python.chart0512.executor": "Run",
+    "Python.chart0514.executor": "Run",
+    "Python.chart0515.executor": "Run",
+    "Python.chart0516.executor": "Run",
+    "Python.chart0526.executor": "Debug",
+    "Python.chart0530.executor": "Debug",
+    "Python.chart0606.executor": "Debug",
+    "Python.chart0610.executor": "Debug",
+    "Python.chart0619.executor": "Debug",
+    "Python.chart0620.executor": "Debug",
+    "Python.chart0626.executor": "Debug",
+    "Python.chart0627.executor": "Debug",
+    "Python.chart0630.executor": "Debug",
+    "Python.chart0701.executor": "Debug",
+    "Python.function_exercise.executor": "Run",
+    "Python.list_exercise.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.object_oriented.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Code/Python/daily-algo-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test" />
       <recent name="E:\Code\Python\daily-algo-python\grammer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_chart0527.TestSolution125.test_is_palindrome">
-    <configuration name="Python tests for test_chart0527.TestSolution125.test_is_palindrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="daily-algo-python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/may" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_chart0527.TestSolution125.test_is_palindrome&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_chart0528.TestSolution658.test_find_closest_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="daily-algo-python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/may" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_chart0528.TestSolution658.test_find_closest_elements&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="daily-algo-python" />
       <option name="ENV_FILES" value="" />
@@ -166,20 +157,50 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_chart0611.TestSolution1621.test_find_swap_values" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="daily-algo-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/june" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chart0611.TestSolution1621.test_find_swap_values&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_chart0611.TestSolution1626.test_calculate" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="daily-algo-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/june" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_chart0611.TestSolution1626.test_calculate&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome" />
+        <item itemvalue="Python tests.Python tests for test_chart0611.TestSolution1626.test_calculate" />
+        <item itemvalue="Python tests.Python tests for test_chart0611.TestSolution1621.test_find_swap_values" />
         <item itemvalue="Python tests.Python tests for test_chart0604.TestSolution.test_reverse_bits" />
         <item itemvalue="Python tests.Python tests for test_chart0530.TestSolution0105.test_one_edit_away" />
-        <item itemvalue="Python tests.Python tests for test_chart0530.TestSolution0104.test_can_permute_palindrome" />
-        <item itemvalue="Python tests.Python tests for test_chart0528.TestSolution658.test_find_closest_elements" />
-        <item itemvalue="Python tests.Python tests for test_chart0527.TestSolution125.test_is_palindrome" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -193,6 +214,15 @@
       <updated>1736688207103</updated>
       <workItem from="1745646719133" duration="14415000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1749537848619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749537848619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +238,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -301,6 +336,51 @@
           <url>file://$PROJECT_DIR$/june/chart0610.py</url>
           <line>8</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0611.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0611.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0619.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0620.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0620.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0626.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/june/chart0630.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/july/chart0701.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/july/chart0701.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
